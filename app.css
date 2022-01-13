@@ -1,0 +1,23 @@
+[for="email"] {
+    font-weight: 100;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-blue {
+    color: red;
+}
+body {
+    color: indigo;
+   
+}
+
+#submitButton {
+    background: green;
+}
+
+.text-white {
+    color: white;
+}
