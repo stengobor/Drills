@@ -21,3 +21,18 @@ body {
 .text-white {
     color: white;
 }
+
+input, label, button {
+    display: block;
+}
+
+element,style {
+    height: 50px;
+    display:inline-block;
+}
+
+.highlight {
+    background: yellow;
+}
+
+

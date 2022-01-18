@@ -11,15 +11,24 @@
 
 <body>
     <header>
-        <div>Month Day Year</div>
-        <div>January 12 2022</div>
-        <div>January 12 2022</div>
+        <table>
+            <tr>
+                <th>Month</th>
+                <th>Day</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td>January</td>
+                <td>12</td>
+                <td>2022</td>
+            </tr>
+        </table>
     </header>
     <main>
         <hr>
         <section>
             <form action="">
-                <label for="firstname">First Name</label>
+                <label for="firstname" class=>First Name</label>
                 <input type="text" placeholder="First Name">
                 <label for="lastname">Last Name</label>
                 <input type="text" placeholder="Last Name">
@@ -55,7 +64,8 @@
         <article>
             <section>
                 <h1 class="text-center text-red">Where I'm From</h1>
-                <p>I am from Castle Rock, Colorado, and I've been in Birmingham for 3 years. </p>
+                <p>I am from <span class="highlight" style="height=50px" display="inline-block">Castle Rock,
+                        Colorado</span>, and I've been in Birmingham for 3 years. </p>
                 <p>So far I don't really like it here, there is really not much to do at all.</p>
                 <a href="http://visitcastlerock.org/wp-content/uploads/2013/11/o-CASTLE-ROCK-COLORADO-facebook.jpg"
                     target="_blank"><img
@@ -168,4 +178,5 @@
         </section>
     </main>
 </body>
+
 </html>

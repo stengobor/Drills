@@ -1,0 +1,102 @@
+
+form {
+    padding: 4em;
+    margin: 0 auto;
+    width: 116px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 10px 5px 15px blue;
+    background: url('./bg3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+input, label {
+    display: block;
+}
+
+
+element.style {
+    font-family: Courier;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact;
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    color: blue;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.percent {
+    font-size: 200%;
+    font-style: italic;
+}
+
+div {
+    display: block;
+}
+
+.font-small {
+    font-size: 80%;
+}
+
+.ems {
+    font-size: 1em;
+}
+
+.rems {
+    font-size: 1rem;
+}
+
+.box {
+    height: 10em;
+    width: 10em;
+}
+
+.blue {
+    background: blue;
+}
+
+.red {
+    background: red;
+    height: 5em;
+    width: 5em;
+}
+
+.green {
+    background: green;
+}
+
+.yellow {
+    background: yellow;
+}
+   
+
+.border-black {
+    border: 5px solid black;
+    box-sizing: border-box;
+}
